@@ -1,0 +1,17 @@
+{
+    "users": [
+      { "id": 1, "name": "Ram-Kumar", "gender": "Male", "eamil": "ram122@gamil.com"},
+      {
+        "id": 2,
+        "name": "John Doe",
+        "gender": "Male",
+        "email": "john.doe@example.com"
+      },
+      {
+        "id": 3,
+        "name": "Alice Smith",
+        "gender": "Male",
+        "email": "alice.smith@example.com"
+      }
+    ]
+  }

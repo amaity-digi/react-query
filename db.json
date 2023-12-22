@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram-Kumar",
+      "eamil": "ram122@gamil.com",
+      "imgUrl": "https://example.com/john-doe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "imgUrl": "https://example.com/john-doe.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alice Smith",
+      "email": "alice.smith@example.com",
+      "imgUrl": "https://example.com/alice-smith.jpg"
+    },
+    {
+      "name": "Suman",
+      "gender": "male",
+      "email": "suman456@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Sumanth Rana",
+      "gender": "male",
+      "email": "sum456@gmail.com",
+      "id": 5
+    }
+  ]
+}
